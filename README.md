@@ -32,7 +32,7 @@ git clone https://github.com/your-username/pg_finder.git
 2. 🗂️ Navigate to the project directory:
 cd pg_finder
 
-3. Import the database:
+3. 📊 Import the database:
 
 Open phpMyAdmin or MySQL Workbench.
 
