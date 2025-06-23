@@ -1,7 +1,9 @@
-PG Finder
+🏠 PG Finder
+
 PG Finder is a web application designed to help users find and book Paying Guest accommodations in selected cities. It offers a user-friendly interface, detailed PG listings, booking options, User Profile and admin management tools.
 
-Features
+✨ Features
+
 Search and view PG listings by city (Phagwara, Jalandhar, Lawgate, Ludhiana).
 
 Detailed PG information including amenities, map location, and pricing.
@@ -12,7 +14,8 @@ User account features: View booking history, payment status, and cancel bookings
 
 Admin dashboard: Manage PGs, users, and bookings.
 
-Tech Stack
+🛠️ Tech Stack
+
 Frontend: HTML, CSS
 
 Backend: PHP
@@ -23,10 +26,10 @@ Other Tools: WAMP/XAMPP for local development
 
 
 Steps to Set Up Locally
-1. Clone the repository:
+1. 📥 Clone the repository:
 git clone https://github.com/your-username/pg_finder.git
 
-2. Navigate to the project directory:
+2. 🗂️ Navigate to the project directory:
 cd pg_finder
 
 3. Import the database:
@@ -52,7 +55,7 @@ http://localhost/pg_finder/index.php
 http://localhost/pg_finder/admin_login.php
 
 8. Usage
-Users:
+👤 For Users:
 
 Register or log in to your account.
 
@@ -60,7 +63,7 @@ Search for PG accommodations by city.
 
 View detailed information about PGs and make bookings.
 
-Admins:
+🔑 For Admins:
 
 Log in to the admin dashboard.
 
@@ -69,7 +72,7 @@ Add, update, or delete PG listings.
 Manage user accounts and booking statuses.
 
 
-9.  Screenshots :---
+9. 📸 Screenshots :---
   
 ![screencapture-localhost-pg-finder-index-php-2025-06-23-12_10_01](https://github.com/user-attachments/assets/aba62a30-aee1-4c86-9481-64bbbff35cb8)
 
@@ -89,6 +92,12 @@ Manage user accounts and booking statuses.
 
 Admin page :---
 ![image](https://github.com/user-attachments/assets/5633b3c6-d6c6-4233-ba10-3e16a361cb9c)
+
+
+📧 Contact
+For any queries or suggestions, feel free to reach out: 😊
+
+📩 Email :- krahul86946@gmail.com
 
 
 
