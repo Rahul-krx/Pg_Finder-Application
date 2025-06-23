@@ -1,0 +1,7 @@
+body{
+    margin: 0;
+    /* box-shadow: 2px 2px 2px 1px black; */
+    box-shadow: 2px 2px 5px rgba(44, 43, 43, 0.1);
+    background-color: rgb(13, 146, 15);
+    cursor: none;
+}
